@@ -9,6 +9,7 @@ import org.openqa.selenium.support.PageFactory;
 
 public class Skillrary 
 {
+	// modified
 	@FindBy(id = "navbar-search-input")
 	private WebElement searchTextfield;
 	
