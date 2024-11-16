@@ -15,6 +15,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 public class ReadDataFromExcel 
 {
+	//class edit by the GitHub
 	public static void main(String[] args) throws EncryptedDocumentException, IOException, InterruptedException {
 		//step: create fis object
 		FileInputStream fis=new FileInputStream("./TestData/testData.xlsx");
